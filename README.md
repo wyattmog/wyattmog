@@ -13,7 +13,7 @@
 
 ## About me
 
-I build open source infrastructure that connects **IBM i** to the modern AI stack - MCP servers, agents, and the tooling that makes LLMs useful on real enterprise systems.
+I build open source infrastructure that connects **IBM i** to the modern AI stack - MCP servers, agents, ect.
 
 Most of my work sits at the intersection of:
 
@@ -35,6 +35,11 @@ A minimal **Java** MCP server for IBM i — a faithful subset of the reference N
 Production-grade **TypeScript** MCP server + `ibmi` CLI for IBM i. YAML toolsets, HTTP auth, pagination, and the reference contract that lite implements against.
 
 `TypeScript` · `npm workspaces` · `@ibm/ibmi-mcp-server`
+
+### [MockifyAI](https://github.com/wyattmog/MockifyAI)
+AI-powered interview preparation tool designed to help you practice and improve your interviewing skills. 
+
+`Java 17` · `Javascript` · `SQL` · `React`
 
 ### Agentic AI on IBM i
 Exploring how LLM agents can safely explore, query, and reason about IBM i systems through MCP — without sacrificing read-only defaults, auditability, or operator control.
@@ -60,5 +65,4 @@ Exploring how LLM agents can safely explore, query, and reason about IBM i syste
 ## Connect with me!
 
 - **GitHub:** [@wyattmogelson](https://github.com/wyattmogelson)
-- **LinkedIn:** [your profile](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- **IBM open source:** [IBM GitHub](https://github.com/IBM)
+- **LinkedIn:** [wyattmog](https://www.linkedin.com/in/wyattmog)
